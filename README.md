@@ -1,8 +1,8 @@
 # COMP 4107 Hopfield_SOM_PCA
 
-Carolyne Pelletier
+Akhil Dalal (me)
 
-Akhil Dalal
+Carolyne Pelletier (github.com/k1c)
 
 Question 1: Hopfield Network on MNIST Data using images of ’1’ and ’5’ only
 
